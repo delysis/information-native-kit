@@ -1,5 +1,10 @@
 # information-native-kit
 
+> **Frozen after native-platform import.** The accepted source history now lives
+> under `crates/services/information` in `delysis/native-platform`. This
+> repository is read-only and remains unarchived for two stable platform
+> releases before retirement.
+
 A product-neutral, local-first Rust subsystem for discovering, installing,
 importing, querying, and citing offline information resources in native AI
 applications.
